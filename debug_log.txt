@@ -1,0 +1,63 @@
+Array
+(
+    [LoginId] => 100064
+    [name] => UMAKANT SINGH
+    [location] => NSPCL Bhilai
+    [department_name] => TS-IT/ERP/IT-Comm.-Bhilai
+    [department] => 74
+    [designation_name] => DGM
+    [designation] => 11
+    [grade] => E6
+    [gender] => 1
+    [mobile] => 9437047227
+    [dob] => 1981-05-01
+    [email] => UMAKANTSINGH@NSPCL.CO.IN
+    [inter_o] => 2011
+    [inter_r] => 2011
+    [std_code] => 788
+    [office_no] => 2442011
+    [std_res] => 788
+    [res_no] => 2443326
+)
+Array
+(
+    [LoginId] => 100064
+    [name] => UMAKANT SINGH
+    [location] => NSPCL Bhilai
+    [department_name] => TS-IT/ERP/IT-Comm.-Bhilai
+    [department] => 74
+    [designation_name] => DGM
+    [designation] => 11
+    [grade] => E6
+    [gender] => 1
+    [mobile] => 9437047227
+    [dob] => 1981-05-01
+    [email] => UMAKANTSINGH@NSPCL.CO.IN
+    [inter_o] => 2011
+    [inter_r] => 2011
+    [std_code] => 788
+    [office_no] => 2442011
+    [std_res] => 788
+    [res_no] => 2443326
+)
+Array
+(
+    [LoginId] => 100064
+    [name] => UMAKANT SINGH
+    [location] => NSPCL Bhilai
+    [department_name] => TS-IT/ERP/IT-Comm.-Bhilai
+    [department] => 74
+    [designation_name] => DGM
+    [designation] => 11
+    [grade] => E6
+    [gender] => 1
+    [mobile] => 9437047227
+    [dob] => 1981-05-01
+    [email] => UMAKANTSINGH@NSPCL.CO.IN
+    [inter_o] => 2011
+    [inter_r] => 2011
+    [std_code] => 788
+    [office_no] => 2442011
+    [std_res] => 788
+    [res_no] => 2443326
+)
